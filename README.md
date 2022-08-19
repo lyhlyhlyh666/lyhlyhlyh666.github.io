@@ -11,7 +11,7 @@ I'm really interested in MATH during my senior high school, so when I graduated,
 In addition, I like the Japan animation and badminton very much. They extremely lighten my life when I'm not studying. Watching animation or playing badminton is a good way to relax myself so that I can be more energrtic in the subsequent learning process.
 
 ### My photo
-< img src="https://lyhlyhlyh666.github.io/lyh.jpg" width="256" height="342" alt="Li yuhao"/><br/>
+< img src="lyh.jpg" width="256" height="342"/><br/>
 
 ### Support to contact me
 
