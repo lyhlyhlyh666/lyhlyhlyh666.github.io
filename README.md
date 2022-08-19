@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Li yuhao
 
-You can use the [editor on GitHub](https://github.com/lyhlyhlyh666/lyhlyhlyh666.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Welcome to my Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Li yuhao, 19 years old and from Shanxi province in China. Now, I'm a student in BIT majoring data science and big data technology.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm really interested in MATH during my senior high school, so when I graduated, I chose a major which has a close relationship with MATH-------data science and big data technology. Though I didn't learn about the programing before, I'm also enthusiastic about the Programing. So when I came in BIT, I began to study it hard, and I have got a lot of progress so for. I know that computer science is field that includes so many things, and there are infinite technologies, I'm interested about them and I will keep studying during my rest of life. I like to study all kinds of technologies, and I think this short semester is a good chance to study html/css/js, so I take the initiative to serve as the CTO, I believe I will leran a lot during this period of time. 
 
-```markdown
-Syntax highlighted code block
+In addition, I like the Japan animation and badminton very much. They extremely lighten my life when I'm not studying. Watching animation or playing badminton is a good way to relax myself so that I can be more energrtic in the subsequent learning process.
 
-# Header 1
-## Header 2
-### Header 3
+### My photo
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Support to contact me
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lyhlyhlyh666/lyhlyhlyh666.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+email: 1192838112@qq.com
+QQ: 1192838112
